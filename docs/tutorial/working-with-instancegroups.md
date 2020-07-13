@@ -1,4 +1,4 @@
-# Managinging Instance Groups
+# Managing Instance Groups
 
 kops has the concept of "instance groups", which are a group of similar machines.  On AWS, they map to
 an AutoScalingGroup.
